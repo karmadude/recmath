@@ -1,0 +1,28 @@
+{
+  "name": "recmath",
+  "version": "1.0.0",
+  "description": "Functions from the world of recreational mathematics",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:karmadude/recmath.git"
+  },
+  "keywords": [
+    "mathematics",
+    "recreational",
+    "happy number",
+    "harshad number"
+  ],
+  "author": "Liji Jinaraj <karmadude@gmail.com> (http://liji.jinaraj.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karmadude/recmath/issues"
+  },
+  "homepage": "https://github.com/karmadude/recmath",
+  "scripts": {
+    "test": "vows test/* --spec; echo"
+  },
+  "devDependencies": {
+    "vows": "^0.8.1"
+  }
+}
