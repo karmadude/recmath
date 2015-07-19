@@ -1,4 +1,4 @@
-# numseq
+# recmath
 Functions from the world of recreational mathematics.
 
 ### Installing

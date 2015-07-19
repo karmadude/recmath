@@ -1,6 +1,6 @@
 {
   "name": "recmath",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Functions from the world of recreational mathematics",
   "main": "index.js",
   "repository": {
