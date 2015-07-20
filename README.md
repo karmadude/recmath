@@ -1,6 +1,8 @@
 # recmath
 Functions from the world of recreational mathematics.
 
+[![Build Status](https://travis-ci.org/karmadude/recmath.svg?branch=master)](https://travis-ci.org/karmadude/recmath)
+
 ### Installing
 
     $ npm install recmath
